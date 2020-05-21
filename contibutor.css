@@ -1,0 +1,69 @@
+.contributors-one{
+    padding-top: 50px;    
+}
+
+.nav-wrapper{
+    background-color: black;
+    padding: 10px;
+}
+
+.nav-fixed{
+    height: 150px;
+}
+.footer-one{
+    background-color: black;
+}
+
+.footer-two{
+    background-color: black;
+    text-align: center;
+}
+
+
+  
+  /* Style the navigation menu */
+
+  
+  #myMenu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Style the navigation links */
+  #myMenu li a {
+    padding: 12px;
+    text-decoration: none;
+    color: black;
+    display: block
+  }
+  
+  #myMenu li a:hover {
+    background-color: #eee;
+  }
+
+
+  
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .images{
+      padding-top: 120px;
+      margin-left: 100px;
+  }
+  
+
+
+
+  

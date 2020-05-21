@@ -1,0 +1,38 @@
+.nav-wrapper{
+    background-color: black;
+    padding: 10px;
+}
+
+.nav-fixed{
+    height: 150px;
+}
+
+.slider .indicators .indicators-item.active{
+    background-color: black;
+}
+
+.maincontent{
+  padding-top: 70px;
+}
+
+.footer-one{
+    background-color: black;
+}
+
+.footer-two{
+    background-color: black;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
